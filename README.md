@@ -1,5 +1,5 @@
 # Handwritten Digit Recognition
-Hello viewrs, this is a research project of mine and Ritik Gupta under the guidance of <a href="https://scholar.google.com/citations?user=jl9HAJEAAAAJ&hl=en&oi=ao">Dr. B S Patro.</a>
+Hello viewrs, this is a research project of <a href="https://www.linkedin.com/in/manas-chandan-behera-803590199/">mine</a> and Ritik Gupta under the guidance of <a href="https://scholar.google.com/citations?user=jl9HAJEAAAAJ&hl=en&oi=ao">Dr. B S Patro.</a>
 <br><br><strong> Project Description </strong>
 <ul>
   <li>The project allows a user to write in air, as one would write in notebook which is visualised using the opencv main window.</li>
