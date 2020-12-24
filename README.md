@@ -11,8 +11,8 @@ Hello Readers, this is a research project of <a href="https://www.linkedin.com/i
     <br><li><img src='images/HandwrittenFive.png'></li>
     <br><li><img src='images/HandwrittenEight.png'></li>
     <br><li><img src='images/HandWrittenFlow.png'></li>
-    <br><li><a href="https://drive.google.com/file/d/1dEkHL9mUPh26rQap8tHP03n_gf774e4e/view?usp=sharing">Have A look At the Complete Working Project</a></li>
+    <li><a href="https://drive.google.com/file/d/1dEkHL9mUPh26rQap8tHP03n_gf774e4e/view?usp=sharing">Have A look At the Complete Working Project</a></li>
   </ul></li>
-  <li>Since This is Our Research project It is not Possible for us to open-source the code, but fill this <a href="https://forms.gle/zw5wLV3KXth4tr6V6"> Contact form</a> we will have you send the details to you.</li>
+  <li>Since This is Our Research project It is not Possible for us to open-source the code, but fill this <a href="https://forms.gle/zw5wLV3KXth4tr6V6"> Contact form</a> we will have  the details sent to you.</li>
 </ul>
 <br><strong>Thank You !</strong>
